@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <Age>48</Age>
+   <First_name>Elena</First_name>
+   <Last_name>Trapeznikova</Last_name>
+   <Pets>
+      <cat>
+         <age>4</age>
+         <name>Cherry</name>
+      </cat>
+      <dog>
+         <age>4</age>
+         <name>Mir</name>
+      </dog>
+   </Pets>
+   <Salary>1000</Salary>
+</root>
