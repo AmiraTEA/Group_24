@@ -1,0 +1,10 @@
+ФИО - Трапезникова Елена Анатольевна
+Возраст - 48
+Количество домашних животных - 2 кота
+Желаемая зарплата - 1000 уе
+
+First name - Elena,
+Last name - Trapeznikova,
+Age - 48
+Pets - 2 cat Cherry and Mir
+Salary - 1000 ye
